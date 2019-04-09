@@ -1,0 +1,2 @@
+# digi-hexo
+hexo blog
